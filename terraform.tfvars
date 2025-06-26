@@ -1,0 +1,6 @@
+resource_group_name = "psql-rg"
+location            = "East US"
+server_name         = "psql-demo-server"
+admin_username      = "psqladmin"
+admin_password      = "P@ssw0rd123!"
+db_name             = "mydatabase"
